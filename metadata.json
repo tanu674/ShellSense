@@ -1,0 +1,7 @@
+{
+  "name": "ShellSense",
+  "description": "AI-Powered Natural Language Shell Assistant for Linux with safety and risk analysis",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
