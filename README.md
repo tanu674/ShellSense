@@ -10,6 +10,8 @@ It converts natural-language requests into shell commands, explains what each co
 
 ShellSense is designed to make the Linux command line **accessible, explainable, and safer** for beginners while improving productivity for experienced users.
 
+## Website : https://shellsense.ai.studio/
+
 ---
 
 ## 🚀 Why ShellSense?
